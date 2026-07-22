@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "usb-midi-thingy") (type "KiCad") (uri "${KIPRJMOD}/footprints/usb-midi-thingy.pretty") (options "") (descr ""))
+)
